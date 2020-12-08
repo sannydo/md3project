@@ -1,0 +1,3 @@
+class UserShoesController < ApplicationController
+    
+end
